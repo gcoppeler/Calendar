@@ -16,3 +16,5 @@ To report a security vulnerability, please open a [GitHub Issue](https://github.
 For sensitive disclosures, contact the maintainer directly via GitHub rather than posting publicly.
 
 You can expect an initial response within 7 days.
+
+Thank you!
