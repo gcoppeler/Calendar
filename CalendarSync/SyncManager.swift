@@ -3,6 +3,8 @@ import SwiftUI
 import Combine
 import EventKit
 
+// comment
+
 @MainActor
 class SyncManager: ObservableObject {
     @Published var status: SyncStatus = .notConfigured
