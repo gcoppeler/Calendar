@@ -1,0 +1,5 @@
+# This project has no third-party dependencies.
+# All frameworks used (EventKit, CryptoKit, Network, AppKit, SwiftUI, Combine, Foundation)
+# are part of the macOS SDK and require no separate installation.
+#
+# Runtime requirement: macOS 13.0 or later
