@@ -1,6 +1,6 @@
 # CalendarSync — Setup Guide
 
-One-way sync from Apple Calendar ("Home - GC") → Google Calendar. Manual trigger via menu bar.
+One-way sync from Apple Calendar ("Home - GC") → Google Calendar. Manual trigger via menu bar. This is just for testing purposes.
 
 ---
 
