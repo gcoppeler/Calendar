@@ -281,6 +281,7 @@
 				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = CalendarSync/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
 				INFOPLIST_KEY_LSUIElement = YES;
 				INFOPLIST_KEY_NSCalendarsFullAccessUsageDescription = "CalendarSync reads your Home - GC calendar to sync events to Google Calendar.";
 				INFOPLIST_KEY_NSCalendarsUsageDescription = "CalendarSync reads your Home - GC calendar to sync events to Google Calendar.";
@@ -328,6 +329,7 @@
 				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = CalendarSync/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
 				INFOPLIST_KEY_LSUIElement = YES;
 				INFOPLIST_KEY_NSCalendarsFullAccessUsageDescription = "CalendarSync reads your Home - GC calendar to sync events to Google Calendar.";
 				INFOPLIST_KEY_NSCalendarsUsageDescription = "CalendarSync reads your Home - GC calendar to sync events to Google Calendar.";
